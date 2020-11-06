@@ -9,5 +9,14 @@ public class Main {
 
         System.out.println("Time for test 3");
 
+        if (
+                ora
+
+        )
+            sadl;fkja
+
+                asdf
+                asdf
+
     }
 }
